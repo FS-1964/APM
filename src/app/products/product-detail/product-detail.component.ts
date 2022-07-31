@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { IProduct } from '../product';
 import { ProductService } from '../product.service';
-
+//change
 @Component({
   selector: 'pm-product-detail',
   templateUrl: './product-detail.component.html',
